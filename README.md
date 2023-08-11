@@ -4,4 +4,4 @@ Sou discente do curso de Ciência da Computação na Universidade Federal do Par
 
 📚 Integrante do PET Computação (Programa de Educação Tutorial) da UFPR;
 
-🌱 Aprofundando conhecimentos em C, C++ JavaScript e Ruby.
+🌱 Aprofundando conhecimentos em C, C++, JavaScript e Ruby.
