@@ -5,9 +5,9 @@ Sou discente do curso de Bacharelado em Ciência da Computação na Universidade
 ✶  Aprofundando conhecimentos em C, JavaScript, Ruby e SQL ✶
 
 <a href="https://git.io/streak-stats">
-  <img height=190 align="center" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=sunset-gradient" 
+  <img height=190 align="center" src="https://streak-stats.demolab.com/?user=millenaSui&theme=sunset-gradient" 
 </a>
-<img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=F56725,F56725,8F3163&title_color=fff&text_color=fff&hide_border=true">
+<img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millenaSui&layout=compact&bg_color=F56725,F56725,8F3163&title_color=fff&text_color=fff&hide_border=true">
 
 ### Contato e Perfis
 <div>
